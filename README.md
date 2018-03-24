@@ -1,1 +1,1 @@
-API.FANNEC.COM
+My Typescript struct and Hapi framework
